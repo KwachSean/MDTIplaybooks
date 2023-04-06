@@ -10,8 +10,7 @@
 ## Deployment
 
 
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/
-https://raw.githubusercontent.com/KwachSean/MDTIplaybooks/main/MDTI-PassiveDns/MDTI-PassiveDns.json"
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FKwachSean%2FMDTIplaybooks%2Fmain%2FMDTI-PassiveDns%2FMDTI-PassiveDns.json"
 target="_blank">
     <img src="https://aka.ms/deploytoazurebutton"/>
 </a>
