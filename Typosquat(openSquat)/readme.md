@@ -30,3 +30,5 @@ After deploying the playbook, you must authorize the connections leveraged.
 
 ## Steps to follow 
 After deploying the playbook you will need to add the credentials for both Open squat API and also the MDTI API credentials 
+![image](https://user-images.githubusercontent.com/67633117/231843530-5e0b6f15-95ac-4fb5-8829-204ca6110bb4.png)
+
