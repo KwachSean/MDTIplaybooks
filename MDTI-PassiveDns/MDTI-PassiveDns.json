@@ -54,7 +54,7 @@
                                 },
                                 "host":  {
                                     "connection":  {
-                                        "name":  "@parameters('$connections')['azuresentinel_1']['connectionId']"
+                                        "name":  "@parameters('$connections')['azuresentinel']['connectionId']"
                                     }
                                 },
                                 "path":  "/incident-creation"
@@ -73,7 +73,7 @@
                                 "body":  "@triggerBody()?['object']?['properties']?['relatedEntities']",
                                 "host":  {
                                     "connection":  {
-                                        "name":  "@parameters('$connections')['azuresentinel_1']['connectionId']"
+                                        "name":  "@parameters('$connections')['azuresentinel']['connectionId']"
                                     }
                                 },
                                 "method":  "post",
@@ -91,7 +91,7 @@
                                 "body":  "@triggerBody()?['object']?['properties']?['relatedEntities']",
                                 "host":  {
                                     "connection":  {
-                                        "name":  "@parameters('$connections')['azuresentinel_1']['connectionId']"
+                                        "name":  "@parameters('$connections')['azuresentinel']['connectionId']"
                                     }
                                 },
                                 "method":  "post",
@@ -624,11 +624,6 @@
                                         "type":  "ManagedServiceIdentity"
                                     }
                                 }
-                            },
-                            "azuresentinel_1":  {
-                                "connectionId":  "/subscriptions/1c61ccbf-70b3-45a3-a1fb-848ce46d70a6/resourceGroups/D4ioTlabSean/providers/Microsoft.Web/connections/azuresentinel-1",
-                                "connectionName":  "azuresentinel-1",
-                                "id":  "/subscriptions/1c61ccbf-70b3-45a3-a1fb-848ce46d70a6/providers/Microsoft.Web/locations/westeurope/managedApis/azuresentinel"
                             }
                         }
                     }
