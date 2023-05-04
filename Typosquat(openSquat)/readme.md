@@ -4,7 +4,7 @@
 
 ## Prerequisites
 1. Access to Open squat API (https://rapidapi.com/atenreiro/api/opensquat1/), you will require access to the RAPID API Key , RAPID APRI -Host , you can sign up for a monthly quota trial in the link provided
-2. Access to MDTI API , access to the logic app would be best through an Client App registration, details of that and how to do that can be found here : , you can also sign up for a trial for the API here :
+2. Access to MDTI API , access to the logic app would be best through an Client App registration, details of that and how to do that can be found here : , you can also sign up for a trial for the API  and set up the client APP here :(https://techcommunity.microsoft.com/t5/microsoft-defender-threat/what-s-new-apis-in-microsoft-graph/ba-p/3780350)
 
 ## Deployment
 
