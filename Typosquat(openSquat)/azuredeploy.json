@@ -23,7 +23,7 @@
     },
     "parameters":  {
         "PlaybookName":  {
-            "defaultValue":  "Typosquat(openSquat)",
+            "defaultValue":  "TyposquatPlaybook",
             "type":  "string"
         }
     },
@@ -289,7 +289,7 @@
             "tags":  {
                 "createddate":  "10/13/2022",
                 "owner":  "sewasong",
-                "hidden-SentinelTemplateName":  "Typosquat(openSquat)",
+                "hidden-SentinelTemplateName":  "Typosquat",
                 "hidden-SentinelTemplateVersion":  "1.0"
             },
             "identity":  {
