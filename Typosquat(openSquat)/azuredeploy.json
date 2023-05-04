@@ -167,9 +167,9 @@
                                     "inputs":  {
                                         "authentication":  {
                                             "audience":  "https://graph.microsoft.com",
-                                            "clientId":  "8d77d794-6a57-4e95-80f6-bf5dd8d3ae9e",
-                                            "secret":  "eMm8Q~9h_9xFZEjVjRe.pPCA5aGI~1XOUlwiKaUR",
-                                            "tenant":  "c55a9220-895f-44b4-92c5-5a054d4fbab6",
+                                            "clientId":  "",
+                                            "secret":  "",
+                                            "tenant":  "",
                                             "type":  "ActiveDirectoryOAuth"
                                         },
                                         "method":  "GET",
@@ -261,10 +261,10 @@
                             "inputs":  {
                                 "headers":  {
                                     "X-RapidAPI-Host":  "opensquat1.p.rapidapi.com",
-                                    "X-RapidAPI-Key":  "9cc0e29fa5msh80534504888484ep136f07jsn13e33092373a"
+                                    "X-RapidAPI-Key":  ""
                                 },
                                 "method":  "GET",
-                                "uri":  "https://opensquat1.p.rapidapi.com/microsoft"
+                                "uri":  "https://opensquat1.p.rapidapi.com/"
                             }
                         }
                     },
