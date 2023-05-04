@@ -33,7 +33,7 @@ After deploying the playbook, you must authorize the connections leveraged.
 
 ## Steps to follow 
 1. Before deploying the playbook you will need to add the credentials for both Open squat API https://rapidapi.com/atenreiro/api/opensquat1/)and also the MDTI API credentials (https://techcommunity.microsoft.com/t5/microsoft-defender-threat/what-s-new-apis-in-microsoft-graph/ba-p/3780350)
-![image](https://user-images.githubusercontent.com/67633117/236250963-c06fa774-c2e9-41e1-878d-2d9491f7b71d.png)
+![image](https://user-images.githubusercontent.com/67633117/236252023-2237dcb5-5fa7-42ce-bf8a-55e694934784.png)
 
 
 2. Click on the Deploy button and it will prompt you for the details
