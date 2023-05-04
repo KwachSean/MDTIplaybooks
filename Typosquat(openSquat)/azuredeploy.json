@@ -3,7 +3,7 @@
     "contentVersion":  "1.0.0.0",
     "metadata":  {
         "title":  "Typosquatplaybook with Open Squat",
-        "description":  "",
+        "description":  "The Typosquat playbook provides a systematic approach for detecting and taking down potentially harmful typo squat domains. This playbook leverages an open source tool called Open Squat to identify new domains that are created with slight variations of legitimate domain names in relation to a keyword selected by the user.",
         "prerequisites":  " Generate API credentials  for both MDTI API and Open Squat API ",
         "postDeployment":  [
         ],
@@ -18,7 +18,8 @@
             "armtemplate":  "Generated from https://github.com/Azure/Azure-Sentinel/tree/master/Tools/Playbook-ARM-Template-Generator"
         },
         "author":  {
-            "name":  ""
+            "name":  "Sean Wasonga"
+           
         }
     },
     "parameters":  {
